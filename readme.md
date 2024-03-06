@@ -2,7 +2,8 @@ Penggunaan Login dan Register membutuhkan penggunaan XAMPP dengan menjalankan ap
 
 REQUEST :
 * port (SQL 3306)
-* database (java_user_database) * nama tabel (user)
+* database (java_user_database)
+* nama tabel (user)
 
 Create By :
 Zoni
